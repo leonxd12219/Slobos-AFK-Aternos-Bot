@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peruanitos.joinmc.world",
-    "port": 49094,
+    "ip": "peruanos.joinmc.world",
+    "port": 42865,
     "version": "1.20.1",
     "try-creative": false
   },
