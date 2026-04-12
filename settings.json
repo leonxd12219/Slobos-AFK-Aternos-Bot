@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peruanos-server.aternos.me",
-    "port": 32189,
+    "ip": "peruanitos.joinmc.world",
+    "port": 49094,
     "version": "1.20.1",
     "try-creative": false
   },
