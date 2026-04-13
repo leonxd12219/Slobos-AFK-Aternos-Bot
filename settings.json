@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peruanos.joinmc.world",
-    "port": 42865,
+    "ip": "peruanosserver.sdlf.fun",
+    "port": 19123,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -26,13 +26,17 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
-      "enabled": false,
+"chat-messages": {
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages":
+      "messages": [
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
+      ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
