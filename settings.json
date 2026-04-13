@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "peruanosserver.sdlf.fun",
-    "port": 19123,
+    "ip": "peruanos-server.aternos.me",
+    "port": 32189,
     "version": "1.20.1",
     "try-creative": false
   },
